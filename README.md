@@ -1,3 +1,8 @@
-# EasyAPI 
-# EasyAPI-java 
 # PaperMCDownloader 
+バージョンとビルドを選択してPaperMCをGUIでダウンロードするだけの需要皆無なツールです。
+
+## 仕様
+- ダウンロードボタンを押してフォルダを選択するとダウンロードが開始されます。<br />"ダウンロードが完了しました"というメッセージが出るまで閉じないでください。<br />
+## Language
+- Japansese
+- English
