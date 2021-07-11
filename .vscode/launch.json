@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "ml.pkom.generatorpapermcmod.Main",
+            "projectName": "PaperMCDownloader"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "ml.pkom.generatorpapermcmod.Main",
+            "projectName": "EasyAPI"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "ml.pkom.easyapi.Sample",
+            "projectName": "EasyAPI"
+        },
+        {
+            "type": "java",
+            "name": "MCServer(Windows)",
+            "request": "launch",
+            "preLaunchTask": "mcdebugwin",
+            "mainClass": "ml.pkom.test.Main"
+        }
+    ]
+}

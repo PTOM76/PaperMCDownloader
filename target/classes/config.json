@@ -1,0 +1,5 @@
+{
+    "mc.versions.url": "https://papermc.io/api/v2/projects/paper/",
+    "paper.builds.url": "https://papermc.io/api/v2/projects/paper/versions/$mcversion$",
+    "paper.download.url": "https://papermc.io/api/v2/projects/paper/versions/$mcversion$/builds/$paperbuild$/downloads/paper-$mcversion$-$paperbuild$.jar"
+}

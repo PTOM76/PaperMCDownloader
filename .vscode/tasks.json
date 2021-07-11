@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "win_debug",
+            "type": "process",
+            "command": "debug.bat",
+            "args": [""]
+        },
+        {
+            "label": "mcdebugwin",
+            "dependsOn": [
+                "win_debug"
+            ]
+        }
+    ]
+}

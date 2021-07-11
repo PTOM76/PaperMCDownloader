@@ -1,0 +1,13 @@
+{
+    "menu.help": "ヘルプ",
+    "menu.settings": "設定",
+    "menu.settings.lang": "言語変更",
+    "menu.settings.lang.ja": "日本語",
+    "menu.settings.lang.en": "English",
+    "menu.about.tool": "PaperMC Downloaderについて",
+    "menu.about.papermc": "PaperMCについて",
+    "menu.about.tool.expl": "このツールはGUIでPaperMCを簡易にダウンロードするためのものです。",
+    "label.download": "フォルダ選択＆ダウンロード",
+    "button.download": "$file$のダウンロード",
+    "dialog.download": "$name$をダウンロードしました。"
+}
